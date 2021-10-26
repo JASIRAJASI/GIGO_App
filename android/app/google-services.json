@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "607492407495",
+    "firebase_url": "https://gigo-app-e168d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gigo-app-e168d",
+    "storage_bucket": "gigo-app-e168d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607492407495:android:d5be3f70b4a1e11e20bee2",
+        "android_client_info": {
+          "package_name": "com.attackcoders.gigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607492407495-l87dcv0uteq4uglainfbdrkvjgp1t69v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfaMafFkp9iEcBM5Tz4zkUY5rrROHcFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607492407495-l87dcv0uteq4uglainfbdrkvjgp1t69v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607492407495:android:7aa680ead478207620bee2",
+        "android_client_info": {
+          "package_name": "com.example.gigoapplatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607492407495-l87dcv0uteq4uglainfbdrkvjgp1t69v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfaMafFkp9iEcBM5Tz4zkUY5rrROHcFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607492407495-l87dcv0uteq4uglainfbdrkvjgp1t69v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
